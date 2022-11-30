@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-world] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> this project working for to master all of the tools and best practices by using them in all Microverse templet and most likely in for future job as well
 
 **[Hello-world]** is a...
 
@@ -101,7 +101,6 @@ After you're finished please remove all the comments and instructions!
 
 - **[key_main]**
 - **[key_feature-1]**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
